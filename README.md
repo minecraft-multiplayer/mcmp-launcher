@@ -1,2 +1,2 @@
 # launcher
-MinecraftMultiplayer's Launcher (Cross-Compatible)
+MinecraftMultiplayer™'s Launcher (Cross-Compatible)
